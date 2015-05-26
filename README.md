@@ -1,1 +1,1 @@
-This method is desctobed in Aris-Brosou, S. 2006. Identifying sites under positive selection with uncertain parameter estimates. Genome. 49:767-776.
+This method is described in Aris-Brosou, S. 2003. Least and most powerful phylogenetic tests to elucidate the origin of the seed plants in presence of conflicting signals under misspecified models. Syst. Biol. 52:781-793.
